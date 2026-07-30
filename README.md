@@ -68,8 +68,9 @@ I'm a passionate Android Developer with **7+ years of experience** building scal
 | App | Link |
 |------|------|
 
-| AI Vastra   | https://play.google.com/store/apps/details?id=aivastra.nice.interactive&hl=en-US   |
-| AI Vastra3D | https://play.google.com/store/apps/details?id=aivastra.nice.aivastraadmin&hl=en-US |
+ **AI Vastra**  :=  https://play.google.com/store/apps/details?id=aivastra.nice.interactive&hl=en-US   
+
+ **AI Vastra3D**:= https://play.google.com/store/apps/details?id=aivastra.nice.aivastraadmin&hl=en-US 
 
 
 # 🚀 Featured Projects
